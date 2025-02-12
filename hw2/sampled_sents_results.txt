@@ -1,0 +1,60 @@
+original_sentence: אדוני הרפרנט , אולי תגלה לי מי חתום מתחת לאמיר לוי ?
+masked_sentence: אדוני הרפרנט , אולי תגלה לי מי חתום [*] לאמיר לוי ?
+plenary_sentence: אדוני הרפרנט , אולי תגלה לי מי חתום , לאמיר לוי ?
+plenary_tokens: ,
+probability of plenary sentence in plenary corpus: -102.01
+probability of plenary sentence in committee corpus: -100.27
+original_sentence: מיכאל שפיר , הנהלת ענף ציוד רפואי מלשכות המסחר , בבקשה .
+masked_sentence: מיכאל שפיר , הנהלת ענף [*] רפואי מלשכות המסחר , בבקשה .
+plenary_sentence: מיכאל שפיר , הנהלת ענף , רפואי מלשכות המסחר , בבקשה .
+plenary_tokens: ,
+probability of plenary sentence in plenary corpus: -102.45
+probability of plenary sentence in committee corpus: -101.70
+original_sentence: תודה חבר הכנסת אקוניס .
+masked_sentence: תודה חבר הכנסת אקוניס [*]
+plenary_sentence: תודה חבר הכנסת אקוניס ,
+plenary_tokens: ,
+probability of plenary sentence in plenary corpus: -36.14
+probability of plenary sentence in committee corpus: -40.02
+original_sentence: אתם עשיתם את זה בענק , ואנחנו כננס על גבי ענק מוסיפים עוד משהו .
+masked_sentence: אתם עשיתם את זה בענק , [*] כננס על גבי ענק מוסיפים [*] משהו .
+plenary_sentence: אתם עשיתם את זה בענק , , כננס על גבי ענק מוסיפים , משהו .
+plenary_tokens: ,,,
+probability of plenary sentence in plenary corpus: -120.13
+probability of plenary sentence in committee corpus: -112.36
+original_sentence: בפרטיים אי אפשר לדעת .
+masked_sentence: [*] אי אפשר לדעת .
+plenary_sentence: אני אי אפשר לדעת .
+plenary_tokens: אני
+probability of plenary sentence in plenary corpus: -39.71
+probability of plenary sentence in committee corpus: -36.99
+original_sentence: בסיטואציה כזאת בפני בית המשפט יהיו בעצם שני המסלולים והוא יבחר מה המסלול המתאים יותר לתת לפציינט הספציפי הזה .
+masked_sentence: בסיטואציה כזאת בפני [*] [*] יהיו בעצם שני המסלולים והוא יבחר מה המסלול המתאים יותר לתת לפציינט הספציפי הזה .
+plenary_sentence: בסיטואציה כזאת בפני , , יהיו בעצם שני המסלולים והוא יבחר מה המסלול המתאים יותר לתת לפציינט הספציפי הזה .
+plenary_tokens: ,,,
+probability of plenary sentence in plenary corpus: -182.74
+probability of plenary sentence in committee corpus: -170.98
+original_sentence: תנועת הצופים , כל מה שהיא אומרת לנו : לכו תביאו' .
+masked_sentence: [*] הצופים , כל מה שהיא אומרת לנו : לכו תביאו' .
+plenary_sentence: אני הצופים , כל מה שהיא אומרת לנו : לכו תביאו' .
+plenary_tokens: אני
+probability of plenary sentence in plenary corpus: -95.97
+probability of plenary sentence in committee corpus: -91.21
+original_sentence: אני רוצה לתת תמונה קצת יותר רחבה , ואז אני אענה גם על השאלה הזאת .
+masked_sentence: אני רוצה לתת תמונה קצת יותר רחבה , [*] אני אענה גם [*] השאלה הזאת .
+plenary_sentence: אני רוצה לתת תמונה קצת יותר רחבה , , אני אענה גם , השאלה הזאת .
+plenary_tokens: ,,,
+probability of plenary sentence in plenary corpus: -113.37
+probability of plenary sentence in committee corpus: -108.24
+original_sentence: זאת אומרת , הם מתעסקים עם הקהל .
+masked_sentence: [*] אומרת , הם מתעסקים עם הקהל .
+plenary_sentence: אני אומרת , הם מתעסקים עם הקהל .
+plenary_tokens: אני
+probability of plenary sentence in plenary corpus: -61.15
+probability of plenary sentence in committee corpus: -57.63
+original_sentence: מהניסיון האישי שלך , איפה זה בערך נמצא ?
+masked_sentence: [*] האישי שלך , איפה זה בערך נמצא ?
+plenary_sentence: אני האישי שלך , איפה זה בערך נמצא ?
+plenary_tokens: אני
+probability of plenary sentence in plenary corpus: -74.90
+probability of plenary sentence in committee corpus: -71.55

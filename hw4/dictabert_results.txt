@@ -1,0 +1,30 @@
+masked_sentence: אדוני הרפרנט , אולי תגלה לי מי חתום [MASK] לאמיר לוי ?
+dictaBERT_sentence: [CLS] אדוני הרפר ##נט, אולי תגלה לי מי חתום על לאמיר לוי? [SEP]
+dictaBERT tokens: על
+masked_sentence: מיכאל שפיר , הנהלת ענף [MASK] רפואי מלשכות המסחר , בבקשה .
+dictaBERT_sentence: [CLS] מיכאל שפיר, הנהלת ענף ציוד רפואי מלש ##כות המסחר, בבקשה. [SEP]
+dictaBERT tokens: ציוד
+masked_sentence: תודה חבר הכנסת אקוניס [MASK]
+dictaBERT_sentence: [CLS] תודה חבר הכנסת אקוניס. [SEP]
+dictaBERT tokens: .
+masked_sentence: אתם עשיתם את זה בענק , [MASK] כננס על גבי ענק מוסיפים [MASK] משהו .
+dictaBERT_sentence: [CLS] אתם עשיתם את זה בענק, אתם כנ ##נס על גבי ענק מוסיפים עוד משהו. [SEP]
+dictaBERT tokens: אתם,עוד
+masked_sentence: [MASK] אי אפשר לדעת .
+dictaBERT_sentence: [CLS] פשוט אי אפשר לדעת. [SEP]
+dictaBERT tokens: פשוט
+masked_sentence: בסיטואציה כזאת בפני [MASK] [MASK] יהיו בעצם שני המסלולים והוא יבחר מה המסלול המתאים יותר לתת לפציינט הספציפי הזה .
+dictaBERT_sentence: [CLS] בסיטואציה כזאת בפני הרופא המטפל יהיו בעצם שני המסלולים והוא יבחר מה המסלול המתאים יותר לתת לפצ ##יינט הספציפי הזה. [SEP]
+dictaBERT tokens: הרופא,המטפל
+masked_sentence: [MASK] הצופים , כל מה שהיא אומרת לנו : לכו תביאו' .
+dictaBERT_sentence: [CLS]'הצופים, כל מה שהיא אומרת לנו : לכו תביאו '. [SEP]
+dictaBERT tokens: '
+masked_sentence: אני רוצה לתת תמונה קצת יותר רחבה , [MASK] אני אענה גם [MASK] השאלה הזאת .
+dictaBERT_sentence: [CLS] אני רוצה לתת תמונה קצת יותר רחבה, ואז אני אענה גם על השאלה הזאת. [SEP]
+dictaBERT tokens: ואז,על
+masked_sentence: [MASK] אומרת , הם מתעסקים עם הקהל .
+dictaBERT_sentence: [CLS] זאת אומרת, הם מתעסקים עם הקהל. [SEP]
+dictaBERT tokens: זאת
+masked_sentence: [MASK] האישי שלך , איפה זה בערך נמצא ?
+dictaBERT_sentence: [CLS] מהניסיון האישי שלך, איפה זה בערך נמצא? [SEP]
+dictaBERT tokens: מהניסיון
