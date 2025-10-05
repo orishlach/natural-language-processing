@@ -39,11 +39,11 @@
   <summary> Application Controller - Interactor</summary>
 
   <p align="center">
-  <img src="docs/pic.jpg" alt="picture description" />
+  <img src="docs/pic1.png" alt="picture description" />
   <br><em>Figure 7: Application Controller - Interactor</em>
   </p>
 
-In the presentation layer....
+- bla bla bla....
 
 </details>
 
